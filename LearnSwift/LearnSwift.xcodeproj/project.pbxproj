@@ -14,6 +14,7 @@
 		BCCF74132015B05900CABABA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCCF74112015B05900CABABA /* LaunchScreen.storyboard */; };
 		BCCF741E2015B05A00CABABA /* LearnSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCF741D2015B05A00CABABA /* LearnSwiftTests.swift */; };
 		BCCF74292015B05A00CABABA /* LearnSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCF74282015B05A00CABABA /* LearnSwiftUITests.swift */; };
+		BCD0BF15205A5F2F00699CFB /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCD0BF14205A5F2F00699CFB /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BCCF74242015B05A00CABABA /* LearnSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearnSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCCF74282015B05A00CABABA /* LearnSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnSwiftUITests.swift; sourceTree = "<group>"; };
 		BCCF742A2015B05A00CABABA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCD0BF14205A5F2F00699CFB /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BCCF740F2015B05900CABABA /* Assets.xcassets */,
 				BCCF74112015B05900CABABA /* LaunchScreen.storyboard */,
 				BCCF74142015B05A00CABABA /* Info.plist */,
+				BCD0BF14205A5F2F00699CFB /* MyTableViewCell.swift */,
 			);
 			path = LearnSwift;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				BCCF740B2015B05900CABABA /* ViewController.swift in Sources */,
 				BCCF74092015B05900CABABA /* AppDelegate.swift in Sources */,
+				BCD0BF15205A5F2F00699CFB /* MyTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
